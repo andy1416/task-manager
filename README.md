@@ -1,6 +1,6 @@
 <h1>Task Manager</h1>
 <h2>Description</h2>
-Task Manager is a powerful task management program designed to help users organize their daily tasks efficiently. With intuitive features and a user-friendly interface, TaskMaster simplifies the process of task management, allowing users to focus on their productivity. Whether you're a student, professional, or anyone seeking better organization, TaskMaster is the perfect solution to stay on top of your tasks.
+Task Manager is a powerful task management program designed to help users organize their daily tasks efficiently. With intuitive features and a user-friendly interface, Task Manager simplifies the process of task management, allowing users to focus on their productivity. Whether you're a student, professional, or anyone seeking better organization, TaskMaster is the perfect solution to stay on top of your tasks.
 
 <h3>Utilized Languages</h3>
 C++
